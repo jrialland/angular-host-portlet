@@ -1,0 +1,4 @@
+Bundle-Name: angular-host-portlet
+Bundle-SymbolicName: angular.host.portlet
+Bundle-Version: 1.0.0
+Export-Package: angular.host.portlet.constants
